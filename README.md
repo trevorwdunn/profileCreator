@@ -1,0 +1,1 @@
+This project is purely designed to help me keep my programming skills, and is not meant to be taken seriously. 
